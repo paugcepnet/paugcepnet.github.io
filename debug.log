@@ -1,0 +1,2 @@
+[0528/125330.910:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0528/130511.888:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
